@@ -1,0 +1,53 @@
+# Projeto de estudos: fundamentos CSS
+
+neste repósitorio contém conceitos de estilização web CSS.
+
+## Conteúdo 
+- [Margin](#-conceitos-de-margin)
+- [Padding](#-conceitos-de-padding)
+- [Border](#-conceitos-de-border)
+
+## Conceitos de Margin
+
+---
+
+**Margin** é o espaço externo ao redor de um elemento em uma página. Ela serve para criar distância entre um elemento e os outros, ajudando na organização e no layout do conteúdo.
+
+A margem pode ser aplicada em todos os lados (cima, direita, baixo e esquerda) ou de forma específica em cada lado.
+
+Por exemplo, ao usar `margin: 20px;`, estamos definindo um espaço de 20 pixels ao redor do elemento. Já com `margin: 0 auto;`, é possível centralizar um elemento horizontalmente.
+
+Em resumo, a margin é importante para melhorar a aparência e o espaçamento entre os elementos de uma página, deixando o design mais organizado e agradável.
+
+## Conceitos de Padding
+
+---
+
+**Padding** é o espaço interno de um elemento, ou seja, a distância entre o conteúdo e a sua borda. Ele é usado para dar mais espaço dentro do elemento, melhorando a organização e a aparência.
+
+O padding pode ser aplicado em todos os lados (cima, direita, baixo e esquerda) ou separadamente em cada um deles.
+
+Por exemplo, ao usar `padding: 20px;`, estamos adicionando um espaço de 20 pixels entre o conteúdo e a borda do elemento. Isso faz com que o conteúdo não fique “colado” nas bordas.
+
+Em resumo, o padding é importante para deixar o conteúdo mais confortável de visualizar e o layout mais organizado.
+
+## Conceitos de Border
+
+---
+
+**Border** é a linha que fica ao redor de um elemento, separando o conteúdo do espaço externo. Ela serve para destacar elementos e definir seus limites na página.
+
+A borda pode ter diferentes propriedades, como espessura, estilo e cor. Também é possível aplicar bordas em lados específicos (cima, direita, baixo e esquerda).
+
+Por exemplo, ao usar `border: 1px solid black;`, estamos criando uma borda com 1 pixel de espessura, linha contínua e cor preta.
+
+Em resumo, a border é importante para dar destaque, organização e estrutura aos elementos, ajudando a melhorar a aparência do layout.
+
+
+
+
+
+
+
+
+
